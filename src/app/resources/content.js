@@ -10,7 +10,7 @@ const person = {
   avatar: "/images/avatar.jpg",
   email: "abdullah@alwahdi.net",
   location: "Yemen/Ibb", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
-  languages: ["English", "Arabic"], // 
+  languages: ["English", "Arabic"], 
 
 
 optional: Leave the array empty if you don't want to display languages
